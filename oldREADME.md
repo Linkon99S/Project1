@@ -1,10 +1,8 @@
+<H1 style="color: black;">Medical Insurance Cost Prediction</H1>
+<h2>Link to Kaggle Dataset : <a href="https://www.kaggle.com/mirichoi0218/insurance">Medical Insurance Data</a></h2>
+<h3>This repo contains a lot of basics such as Data preprocessing, Data Visualization, Prediction using various models and tuning their Hyper parameters. Also, the best model was chosen and was deployed using Flask locally.</h3>
 
-
-To predict things have been never so easy. I used to wonder how Insurance amount is charged normally. So, in the mean time I came across this dataset and thought of working on it! Using this I wanted to know how few features determine our insurance amount! 
- 
-
-
-## :star: Features
+<h2>Topics Covered : </h2>
 <ol>
     <li>Exploring the dataset</li>
     <li>Converting Categorical values to Numerical</li>
@@ -21,12 +19,3 @@ To predict things have been never so easy. I used to wonder how Insurance amount
     <li>Preparing model for deployment</li>
     <li>Deployed model using Flask</li>
 </ol>
-
-## :key: Results
-
-####  Model gave 86% accuracy for Medical Insurance Amount Prediction using <code>Random Forest Regressor</code>
-
-
-## :file_folder: Dataset
-The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/mirichoi0218/insurance)
-
